@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - tiny_expr_flutter (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - tiny_expr_flutter (from `.symlinks/plugins/tiny_expr_flutter/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  tiny_expr_flutter:
+    :path: ".symlinks/plugins/tiny_expr_flutter/ios"
+
+SPEC CHECKSUMS:
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+  tiny_expr_flutter: e095539373076ac8998a2ef071ae4b40c5891832
+
+PODFILE CHECKSUM: 70d9d25280d0dd177a5f637cdb0f0b0b12c6a189
+
+COCOAPODS: 1.11.3
